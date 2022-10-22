@@ -1,0 +1,49 @@
+NokaSmart	KEYWORD1
+NokaUART_Slave	KEYWORD1
+NokaUART_Master	KEYWORD1
+
+Get_Data	KEYWORD2
+
+Start	KEYWORD2
+
+Send_Byte_Data	KEYWORD2
+
+Print_Data	KEYWORD2
+
+Listen_SoftPort	KEYWORD2
+RequestSoftPort	KEYWORD2
+RunningSoftPort	KEYWORD2
+RunWork	KEYWORD2
+
+
+
+TELEMETRY	LITERAL1
+SCE	LITERAL1
+CS	LITERAL1
+CONet	LITERAL1
+ERM	LITERAL1
+REQ	LITERAL1
+RES	LITERAL1
+
+
+2^41;
+2^54;
+2^D;
+2^D;
+2^A;
+2^D;
+2^A;
+2^4F;
+2^4B;
+2^D;
+2^A;
+
+
+2^41;
+2^54;
+2^D;
+2^D;
+3^D;
+3^4F;
+2^4B;
+2^D;
